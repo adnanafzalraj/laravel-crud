@@ -5,7 +5,7 @@ This project is intended for practicing Laravel basics.
 
 ---
 
-## 🚀 Features
+# Features
 - Create new blog posts  
 - View all posts  
 - Edit existing posts  
@@ -14,18 +14,18 @@ This project is intended for practicing Laravel basics.
 
 ---
 
-## 🛠️ Requirements
-- PHP >= 8.1  
+# Requirements
+- PHP >= 8.2+  
 - Composer  
 - Laravel 12.x  
 - MySQL or SQLite database  
 
 ---
 
-## ⚙️ Installation
+# Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/laravel-blog-crud.git
+   git clone https://github.com/adnanafzalraj/laravel-crud.git
    cd laravel-blog-crud
 
 2. Install dependencies:
@@ -49,7 +49,7 @@ This project is intended for practicing Laravel basics.
 ---
 
 ## 📸 Screenshots
-(Add screenshots of your app here if possible)
+![alt text](image.png)
 
 ---
 
@@ -63,7 +63,7 @@ This project is intended for practicing Laravel basics.
 
 ## 🧑‍💻 Author
 - Your Name : Rana Adnan Afzal 
-- GitHub: https://github.com/your-username  
+- GitHub: https://github.com/adnanafzalraj 
 
 ---
 
