@@ -15,7 +15,7 @@ This project is intended for practicing Laravel basics.
 ---
 
 # Requirements
-- PHP >= 8.2+  
+- PHP >= 8.2.12  
 - Composer  
 - Laravel 12.x  
 - MySQL or SQLite database  
@@ -34,26 +34,23 @@ This project is intended for practicing Laravel basics.
 3. Copy .env.example to .env:
    cp .env.example .env
 
-4. Generate application key:
-   php artisan key:generate
-
-5. Set up your database in the .env file, then run migrations:
+4. Set up your database in the .env file, then run migrations:
    php artisan migrate
 
-6. Start the development server:
+5. Start the development server:
    php artisan serve
 
-7. Visit the app in your browser:
+6. Visit the app in your browser:
    http://127.0.0.1:8000
 
 ---
 
 ## 📸 Screenshots
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
+![Home](image-1.png)
+![Posts](image-2.png)
+![Create](image-3.png)
+![Edit](image-4.png)
+![Updation](image-5.png)
 ---
 
 ## 📂 Project Structure
