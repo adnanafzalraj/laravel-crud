@@ -1,7 +1,7 @@
 # Laravel CRUD (blog)
 
-A simple **Laravel mini application** demonstrating **CRUD (Create, Read, Update, Delete)** operations for a blog system.  
-This project is intended for learning and practicing Laravel basics.
+A simple "Laravel mini application" demonstrating "CRUD (Create, Read, Update, Delete)" operations for a blog system.  
+This project is intended for practicing Laravel basics.
 
 ---
 
